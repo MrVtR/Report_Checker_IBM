@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "figlet": "^1.5.2",
+    "press-any-key": "^0.1.1",
+    "prompt-sync": "^4.2.0",
+    "xlsx": "^0.17.2"
+  }
+}
